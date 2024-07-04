@@ -24,6 +24,9 @@ Sample Images:
 ![035_0017_j](https://github.com/injin26/Final-project-/assets/160586237/536844c4-6c36-451b-8f25-1e00b5a26a84)
 
 Installation/Reproduction:
-
+- clone repository
+- install required packages (check for requirements via imports for each python file)
+- download the dataset and create a repository for it
+- train and then test the model
 
 Link to demonstration video:
