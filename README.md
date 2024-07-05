@@ -1,7 +1,7 @@
 # Final-project-
-Hello! My name is Inji Novruzlu, and for my project with NVIDIA's Jetson Nano, I made a Traffic Sign Recognition System. The main purpose of this is to help the drivers understand when they should stop, be cautious, and go, which can ultimately help reduce the number of car accidents. By scanning a traffic sign, the recognizer will share what the sign means for the driver, controlling their speed and making the road safer for everyone. 
+Hello! My name is Inji Novruzlu, and for my project with NVIDIA's Jetson Nano, I made a Traffic Sign Recognition System. The main purpose of this is to help the drivers understand when they should stop, be cautious, and go, which can ultimately help reduce the number of car accidents. By testing images of traffic signs, the recognizer will share what the sign means for the driver, controlling their speed and making the road safer for everyone.
 
-Project Structure:
+Project Structure: please check master branch for code and dataset files
 - Final-Project-
 - --> DATA
 - ----> 0
