@@ -1,4 +1,5 @@
 import os
+import torch
 from torchvision import datasets, transforms
 
 # Define a transformation pipeline for images
@@ -8,7 +9,7 @@ transform = transforms.Compose([
 ])
 
 # Create a dataset and dataloader
-data_dir = 'data'
+data_dir = "DATA"
 dataset = datasets.ImageFolder(root=data_dir, transform=transform)
 
 # Split the dataset into training and validation sets
