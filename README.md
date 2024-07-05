@@ -11,7 +11,6 @@ Project Structure:
 - --> labels.csv #CSV file with labels for traffic signs
 - --> loadingData.py #loads and preprocesses data
 - --> testingModel.py #creates custom traffic sign recognition model
-- --> testingRealTime.py #uses webcame to scan in traffic signs in real-time
 - --> trainingModel.py #trains the model and evaluates it
 - --> usingInference.py #understands the test images through jetson-inference library usage
 
@@ -20,7 +19,6 @@ Features:
 - data processing
 - model training and testing
 - testing images
-- scanning to test in real-time
 
 Sample Images:
 ![011_0003_j](https://github.com/injin26/Final-project-/assets/160586237/42fef122-e479-4386-b6dc-b51ae4863953)
