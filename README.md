@@ -9,9 +9,10 @@ Project Structure:
 - ----> .. #up to 57 folders with images
 - --> TEST
 - --> labels.csv #CSV file with labels for traffic signs
-- --> loadingData
-- --> testingModel
-- --> trainingModel
+- --> loadingData.py #loads and preprocesses data
+- --> testingModel.py #creates custom traffic sign recognition model
+- --> trainingModel.py #trains the model and evaluates it
+- --> usingInference.py #understands the test images through jetson-inference library usage
 
 Features:
 - CNN model (custom)
