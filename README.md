@@ -29,5 +29,3 @@ Installation/Reproduction:
 - install required packages (check for requirements via imports for each python file)
 - download the dataset and create a repository for it
 - train and then test the model
-
-Link to demonstration video:
